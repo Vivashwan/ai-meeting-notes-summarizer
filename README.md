@@ -42,15 +42,15 @@ __Frontend (Next.js)__
 
   **User Flow:**
   
-  1. User inputs transcript (paste or upload in .txt).
+  - User inputs transcript (paste or upload in .txt).
   
-  2. User adds a custom instruction.
+  - User adds a custom instruction.
   
-  3. Click “__Generate__” → calls backend __```/api/summarize```__.
+  - Click “__Generate__” → calls backend __```/api/summarize```__.
   
-  4. Summary is returned and displayed in an editable field.
+  - Summary is returned and displayed in an editable field.
   
-  5. User can copy, or email the summary.
+  - User can copy, or email the summary.
 
 __Backend (API Routes)__
 
@@ -183,8 +183,6 @@ This project demonstrates a __full-stack AI-powered tool__ for meeting productiv
 The project is __deployed on Vercel__ and can be accessed via a live link, providing a fully functional demo without paid API requirements.
 
 ## Live Link to hosted project
-
-Run the development server:
 
 ```
 https://ai-meeting-notes-summarizer-beta.vercel.app/
