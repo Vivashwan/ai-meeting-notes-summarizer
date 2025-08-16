@@ -182,10 +182,10 @@ This project demonstrates a __full-stack AI-powered tool__ for meeting productiv
 
 The project is __deployed on Vercel__ and can be accessed via a live link, providing a fully functional demo without paid API requirements.
 
-## Live Link to project
+## Live Link to hosted project
 
 Run the development server:
 
 ```
-
+https://ai-meeting-notes-summarizer-beta.vercel.app/
 ```
