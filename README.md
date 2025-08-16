@@ -113,7 +113,7 @@ await sgMail.send({
 | AI Model          | Groq API – __```llama-3.1-8b-instant```__       |
 | Email Service     | SendGrid (single sender setup)         |
 | Notifications     | react-hot-toast                         |
-| Deployment        | Vercel (free plan, environment vars)   |
+| Deployment        | Vercel   |
 
 
 ## 4. Enhancements & Features
@@ -182,20 +182,10 @@ This project demonstrates a __full-stack AI-powered tool__ for meeting productiv
 
 The project is __deployed on Vercel__ and can be accessed via a live link, providing a fully functional demo without paid API requirements.
 
-## Getting Started
+## Live Link to project
 
 Run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```
